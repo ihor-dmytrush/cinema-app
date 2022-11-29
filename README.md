@@ -27,12 +27,12 @@ The Cinema-Service is based on 3-layer architecture:
 2. Services - there are all business logic
 3. DAO - there are CRUD operations to database
 
+### Model structure
+![](Cinema_Uml.png)
+---
+
 ## How to run this project?
 - Clone the project
 - You must have installed and configured MySQL and Apache Tomcat
 - Edit database parameters in resources
 - Run the application with Tomcat
-
-### Model structure
-![](Cinema_Uml.png)
----
